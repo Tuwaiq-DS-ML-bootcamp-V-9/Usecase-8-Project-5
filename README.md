@@ -43,5 +43,9 @@ The project includes **bar charts, count plots, and word clouds** for insights i
    jupyter notebook project.ipynb
    ```
 
-## 📧 Contact
-For any questions or contributions, feel free to open an issue or reach out. 🚀
+## 👥 Contributors
+- **Mushal Alshagha**
+- **Emtnan Alomireni**
+- **Naser Almanaa**
+- **Yousef Alharbi**
+
