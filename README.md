@@ -1,7 +1,7 @@
 # 📊 Coursera Courses Analysis
 
 ## 📌 Project Overview
-This project focuses on **Exploratory Data Analysis (EDA)** of a Coursera courses dataset. The goal is to uncover insights about course subjects, institutions, trending skills, and popular course topics.
+This project focuses on Exploratory Data Analysis (EDA) and Unsupervised Machine Learning using a dataset obtained through web scraping from the Coursera website. The goal is to uncover insights about course subjects, institutions, trending skills, and popular course topics. Additionally, the project involves clustering the courses using K-Means, K-Modes, and DBSCAN algorithms to identify patterns and groupings within the data.
 
 ## 📂 Dataset Information
 - **File Name:** `Coursera.csv`
@@ -93,7 +93,15 @@ The project includes multiple visualizations, such as:
 
 ## 📌 Machine Learning Methodology
 ### Model Selection
-Two different unsupervised machine learning models were trained for the task.
+Three unsupervised machine learning models were trained for clustering the dataset:
+
+1-K-Means
+
+2-K-Modes
+
+3-DBSCAN
+
+These models were chosen to handle both numerical and categorical data effectively and to explore different clustering approaches.
 
 ### Feature Engineering
 Steps taken to enhance model performance:
